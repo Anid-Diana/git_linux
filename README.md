@@ -39,4 +39,4 @@ I had never worked with Git before, so the information presented in the training
 >The list of completed additional materials will increase over time :)
 
 
-#Linux, Command Line, HTTP Tools
+# Linux, Command Line, HTTP Tools
