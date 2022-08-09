@@ -33,4 +33,7 @@ I had never worked with Git before, so the information presented in the training
 
 >The game helped to additionally learn new commands and consolidate some material passed on Coursera.
 
-
+## Additional materials
+- Communicating using Markdown
+- TypingClub 
+>The list of completed additional materials will increase over time :)
