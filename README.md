@@ -64,7 +64,7 @@ I had never worked with Git before, so the information presented in the training
 </details>
 
 2. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
->I read the articles and found a lot of new information for myself. Some of the information in the articles was completely obscure to me, but it gives an motivation to dive into this topic even more.
+>I read the articles and found a lot of new information for myself. Some of the information in the articles was completely obscure to me, but it gives an motivation to dive deeper into the details this topic.
 3. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 >I save these articles for further information analysis.
