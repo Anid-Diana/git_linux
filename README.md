@@ -71,3 +71,5 @@ I had never worked with Git before, so the information presented in the training
 
 
 # Git Collaboration
+
+1. Listened to weeks 3 and 4 of the course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
