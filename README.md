@@ -68,3 +68,6 @@ I had never worked with Git before, so the information presented in the training
 3. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 >I save these articles for further information analysis.
+
+
+# Git Collaboration
