@@ -34,8 +34,10 @@ I had never worked with Git before, so the information presented in the training
 >The game helped to additionally learn new commands and consolidate some material passed on Coursera.
 
 ## Additional materials
-- Communicating using Markdown
-- TypingClub 
+- [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+- [TypingClub](https://www.typingclub.com/)
+- [About Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+- [Resoilving a Merge Conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
 >The list of completed additional materials will increase over time :)
 
 
@@ -73,3 +75,6 @@ I had never worked with Git before, so the information presented in the training
 # Git Collaboration
 
 1. Listened to weeks 3 and 4 of the course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+2. Completed levels [learngitbranching.js.org:](https://learngitbranching.js.org/?locale=uk)
+   - Basics: Moving on, Moving work back and forth
+   - Remote repositories: Through origin - to the stars. Progressive use of Git Remotes
