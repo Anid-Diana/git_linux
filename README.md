@@ -38,6 +38,7 @@ I had never worked with Git before, so the information presented in the training
 - [TypingClub](https://www.typingclub.com/)
 - [About Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
 - [Resoilving a Merge Conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+- [Git за 30 хвилин](https://codeguida.com/post/453)
 >The list of completed additional materials will increase over time :)
 
 
@@ -78,3 +79,6 @@ I had never worked with Git before, so the information presented in the training
 2. Completed levels [learngitbranching.js.org:](https://learngitbranching.js.org/?locale=uk)
    - Basics: Moving on, Moving work back and forth
    - Remote repositories: Through origin - to the stars. Progressive use of Git Remotes
+   
+## Additional materials
+- [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
