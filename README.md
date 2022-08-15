@@ -76,9 +76,37 @@ I had never worked with Git before, so the information presented in the training
 # Git Collaboration
 
 1. Listened to weeks 3 and 4 of the course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+<details><summary>Screenshot of week 3</summary>
+
+![Screenshot of week 3](https://github.com/Anid-Diana/kottans-frontend/blob/main/task_git_collaboration/img-1.png)
+   
+</details>
+
+<details><summary>Screenshot of week 4</summary>
+   
+![Screenshot of week 4](https://github.com/Anid-Diana/kottans-frontend/blob/main/task_git_collaboration/img-2.png)
+   
+</details>
+
+> Weeks 3 and 4 of this course are extremely useful. I repeated the material studied earlier about Git and I learned more detail about push requests, and also familiarized myself with such systems as continuous delivery and continuous integration (CD/CI).
+
 2. Completed levels [learngitbranching.js.org:](https://learngitbranching.js.org/?locale=uk)
    - Basics: Moving on, Moving work back and forth
    - Remote repositories: Through origin - to the stars. Progressive use of Git Remotes
+<details><summary>Screenshot of Basics</summary>
    
+![Screenshot of Basics](https://github.com/Anid-Diana/kottans-frontend/blob/main/git-basics/img-3.png)
+   
+</details>
+
+
+<details><summary>Screenshot of Remote repositories: Through origin - to the stars. Progressive use of Git Remotes </summary>
+   
+![Screenshot of Remote repositories: Push & Pull](https://github.com/Anid-Diana/kottans-frontend/blob/main/git-basics/img-4.png)
+   
+</details>
+
+>   I was so fascinated by the game that I passed all the levels while I was learning Git and Github, but it helped me understand the material Coursera.
+
 ## Additional materials
 - [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
